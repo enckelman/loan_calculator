@@ -1,2 +1,3 @@
-# loan_calculator
-Python practice
+# Loan calculator
+
+Just a Python practice project.
